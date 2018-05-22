@@ -1,5 +1,6 @@
 # EngineeringInLinux
-# EngineeringInLinux
+This is a mess. I'm still working on the initial writeup, and I'll format this after because I'm still learning how to use this interface. If you view the raw version of this file, it's more readable.
+
 Explanation and General Notes
 Anything in mono typeface in this document is to be what is typed into the terminal.
 
