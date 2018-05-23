@@ -16,17 +16,29 @@ The project will have several things, detailed below:
 
 ## Specific codes
 ### Languages
-After Python 3, we add the following languages:
-| Python 3 installed... | ...via Anaconda... | ...which includes Jupyter |
-| --------------------- | ------------------ | ------------------------- |
-| Python 2.7            | Ruby               | Common Lisp               |
-| SageMath              | Perl               | BeakerX, which includes:  |
-| Machine Learning (py) | C                  |   Clojure                 |
-| R                     | C++                |   Groovy                  |
-| Gnuplot               | C#                 |   Java                    |
-| Scilab                | Julia              |   Kotlin                  |
-| Octave                | Fortran            |   SQL                     |
-| bash                  | Haskell            |   Scala                   |
+Python 3 in installed via Anaconda, which gets us Jupyter. We then add the following languages:
+- Python 2.7
+- SageMath
+- Machine Learning (py)
+- R
+- Gnuplot
+- Scilab
+- Octave
+- bash
+- Ruby
+- Perl 6
+- C/C++/C#
+- Julia
+- Fortran
+- Haskell
+- Common Lisp
+- BeakerX, which includes:
+  - Clojure
+  - Groovy
+  - Java
+  - Kotlin
+  - SQL
+  - Scala
 
 ### IDEs
 Text Editors
