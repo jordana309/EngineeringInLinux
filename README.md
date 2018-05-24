@@ -1,5 +1,5 @@
 ## Overview
-Engineering in Linux is a step-by-step guide to setting up a Linux Virtual Box for engineering work. It's targeted towards engineers who can run a computer, but who don't spend large amounts of their time learning about them (i.e. mechanical, chemical, electrical, and nuclear engineers). The hope is that this can provide a powerful toolkit for engineers to start coding or developing quickly without having to waste large amounts of time setting things up. Development of this project began when I found [SageMath](http://www.sagemath.org), distributed as a CentOS virtual box. I soon wanted more language support, and realized that starting from a clean Ubuntu install would be the easiest way to get repeatably get the system I wanted.
+Engineering in Linux is a step-by-step guide to setting up a Linux Virtual Box for engineering work. It's targeted towards engineers who can run a computer, but who don't spend large amounts of their time learning about them (i.e. mechanical, chemical, electrical, and nuclear engineers). The hope is that this can provide a powerful toolkit for engineers to start coding or developing quickly without having to waste large amounts of time setting things up. Development of this project began when I found [SageMath](http://www.sagemath.org), distributed as a CentOS virtual box. I soon wanted more language support, and realized that starting from a clean Ubuntu install would be the easiest way to repeatably get the system I wanted.
 
 It starts by installing a ton of programming languages, and hooking them all into Jupyter via kernels. This provides a single development interface and similar behavior for multiple languages, allowing me to focus on learning and using the languages and not fiddling with multiple design environments. Following Jupyter integration, several text editors are added and configured for the languages installed, again to provide a unified coding interface for all languages. Acknowledging that having an Integrated Development Environment (IDE) for the languages I plan to use often provides additional functionality and utility, I then add several IDEs. By the end of this portion, I have multiple options for writing in over 20 languages, and I have several IDEs all using the same environments so I don't have to configure a bunch of them.
 
@@ -45,9 +45,11 @@ Text Editors
 - Atom, with ide plugin
 - Sublime, with linter
 - VIM (spf13)
+
 General, "flexible" IDEs (that can have multiple languages in them):
 - Elipse
 - Code::Blocks
+
 Specific IDEs
 - Sypder, PyCharm
 - RStudio
@@ -58,21 +60,26 @@ CFD
 - OpenFOAM
 - Visual-CFD (OpenFOAM GUI)
 - SU2
+
 FEA
 - Code_Aster
 - Code_Aster GUI
+
 Circuits
 - Eagle
 - gEDA
 - KiCad
 - Qucs
 - Fritzing
+
 Nuclear
 - OpenMC
 - DRAGON
+
 CAD/3D modeling
 - FreeCAD
 - Blender
+
 Aerospace
 - XFoil
 
@@ -84,4 +91,4 @@ Aerospace
 
 ### The rest
 - VLC
-- Bunch of things
+- Bunch of things...I haven't gotten here yet
